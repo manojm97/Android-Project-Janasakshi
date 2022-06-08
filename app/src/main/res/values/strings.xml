@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name"><font size="17">Janasakshi</font></string>
+
+     <string name="ad_id">ca-app-pub-2676004567115948~9133279713</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2676004567115948/5194034706</string>
+    <string name="admob_interstitial_id">ca-app-pub-2676004567115948/8941708020</string>
+
+     <!--google test ad unit
+    <string name="ad_id">ca-app-pub-8910293746773710~9426011499</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+        <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>  -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+

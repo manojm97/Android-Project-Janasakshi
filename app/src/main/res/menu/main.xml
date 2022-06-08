@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- <item android:title="@+id/image"
+        android:icon="@drawable/andolanashort"
+        app:showAsAction="always"/> -->
+
+    <item
+        android:id="@+id/eye"
+        android:icon="@drawable/ic_remove_red_eye_black_24dp"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/app_bar_switch"
+        android:title="Switch"
+        app:actionLayout="@layout/switch_item"
+        app:showAsAction="always" />
+
+ <!--   <item android:title="Kannada"
+        android:id="@+id/kannada"/>
+
+    <item android:title="English"
+        android:id="@+id/english"/> -->
+
+</menu>

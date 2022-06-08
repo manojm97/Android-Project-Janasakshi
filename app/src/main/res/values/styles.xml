@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here.
+        <item name="colorPrimary">#619F9A</item>
+        <item name="colorPrimaryDark">#3B807B</item>
+        <item name="colorAccent">#299187</item> #1da1f2-->
+
+        <item name="colorPrimary">#434040</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">#28AAFA</item>
+        <item name="android:textColorPrimary">#FFFCFC</item>
+
+        <!-- Status bar stuff.
+        <item name="android:statusBarColor">@color/ic_launcher_background</item>
+        <item name="android:windowLightStatusBar">true</item> -->
+
+    </style>
+
+
+    <style name="MyActionButtonOverflow" parent="@style/Theme.AppCompat.Light">
+       <item name="logo">@drawable/ic_chrome_reader_mode_black_24dp</item>
+        <item name="displayOptions">useLogo|showHome</item>
+    </style>
+
+</resources>

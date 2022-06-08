@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "466656191824",
+    "firebase_url": "https://janasakshi-f496c.firebaseio.com",
+    "project_id": "janasakshi-f496c",
+    "storage_bucket": "janasakshi-f496c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466656191824:android:37a0d262e8ea3112a53855",
+        "android_client_info": {
+          "package_name": "janasakshi.android.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466656191824-1i1hnjg6q3hj7d1jqiq71gt4n31404vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnVudtqiq7SwDIRzHkS1Gii9UP8RGKh7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466656191824-1i1hnjg6q3hj7d1jqiq71gt4n31404vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
